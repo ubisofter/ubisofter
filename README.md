@@ -1,7 +1,7 @@
 ### Hi there, I'm Andrew - aka [PRIM4T][website] 👋
 
 [![Website](https://img.shields.io/website?label=PRIM4T.art&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://prim4t.art)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fprim4t&screen_name=prim4t)
+[![Twitter Follow](https://img.shields.io/twitter/follow/prim4t?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fprim4t&screen_name=prim4t)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
