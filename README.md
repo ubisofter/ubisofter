@@ -86,7 +86,7 @@
 
 </details>
 
-[website]: https://prim4t.art.com
+[website]: https://prim4t.art
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/prim4t
 [youtube]: https://youtube.com/codeSTACKrcodeSTACKr
