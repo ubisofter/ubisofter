@@ -2,7 +2,7 @@
 I do Modile, Front and Back...<br>
 🔭 I’m currently working on ResumeBuilder app<br>
 👯 I’m looking to migrate all my apps to Jetpack Compose<br>
-🤝 I’m looking for help with hire<br>
+✍️ I’ve start from Java in 2017<br>
 🌱 I’m currently learning Dagger 2<br>
 ⚡ Fun fact: Wrote clone Flo (10k+ users)
 
