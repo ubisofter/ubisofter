@@ -1,5 +1,5 @@
 # 💫 About Me:
-I do Modile, Front and Back...<br>
+I do Mobile, Front and Back...<br>
 🔭 I’m currently working on ResumeBuilder app<br>
 👯 I’m looking to migrate all my apps to Jetpack Compose<br>
 ✍️ I’ve start from Java in 2017<br>
